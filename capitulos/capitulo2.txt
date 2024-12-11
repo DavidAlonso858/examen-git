@@ -1,0 +1,1 @@
+Hay dos tipos de sentencias de iteracion: \n a. IF-ELSE. \n b. SWITCH
