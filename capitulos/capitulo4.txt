@@ -1,0 +1,1 @@
+Los arrays no permiten almacenar elementos del mismo tipo o clase
